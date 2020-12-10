@@ -3,7 +3,7 @@ import { getAssetFromKV, mapRequestToAsset } from '@cloudflare/kv-asset-handler'
 import {
   handleOptionsRequest,
   handleActiveCampaignRequest,
-} from './utils/activecampaign'
+} from '../utils/activecampaign'
 
 /**
  * The DEBUG flag will do two things that help during development:

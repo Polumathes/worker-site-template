@@ -1,7 +1,5 @@
-name = "helloworld"
-type = "javascript"
-
 account_id = ""
+name = "my-site"
+type = "webpack"
 workers_dev = true
-route = ""
-zone_id = ""
+site = { bucket = "./public" }
