@@ -1,2 +1,5 @@
 [template]
 exclude = ["*"]
+
+[net]
+git-fetch-with-cli = true
